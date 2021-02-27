@@ -1,2 +1,2 @@
 Check it out:
-https://yourmoviesearch.netlify.app/moviesearch/
+https://yourmoviesearch.netlify.app
